@@ -1,4 +1,5 @@
 // Task#2 
+"use strict"
 const user = {
     name: 'John' 
 };

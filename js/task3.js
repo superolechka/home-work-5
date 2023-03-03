@@ -1,5 +1,6 @@
 // Task #3
-let salaries = {
+"use strict"
+const salaries = {
   John: 100,
   Ann: 160,
   Pete: 130
